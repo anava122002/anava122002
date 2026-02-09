@@ -1,16 +1,14 @@
-### Hi there 👋 I'm [Ana!](https://github.com/anava122002)
+## Hello, world! 👋 I'm [Ana](https://github.com/anava122002)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Junior Data Scientist
+### I'm a Junior Data Scientist
 
-- 👨‍💻 I’m currently working on DA and ML projects using python and SQL.
+- 👨‍💻 I’m currently working on DS and ML projects using Python and SQL.
 - 📈 Maths and programming are my passion.
 - 💪🏼 Future Goals: Keep learning and solving problems - Show my value to the world!.
 
----
-
-### Technologies:
+### 🛠️ Tech Stack:
 #### Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -31,10 +29,22 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%23669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
+### 🔍 Want to see what I do? Check this projects:
+Still working on this... 
 
+### 🔥Stats:
+<table border="0" align="center">
+<tr border="0">
+  
+<td width="50%" align="center">
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anava122002&theme=dark&hide_border=true" />
+</td>
 
-
-
-
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anava122002&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+  
+</tr>
+</table>
 
 
