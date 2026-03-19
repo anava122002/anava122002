@@ -34,6 +34,11 @@
 
 The UFO phenomenon began to gain popularity in the United States after World War II and continues to generate curiosity among people worldwide, especially in English-speaking countries. In this project, we aim to learn more about the evolution of UFO sightings and their most common patterns.
 
+[SQL PROJECT: building and analysing an online supermarket's dataset](https://github.com/anava122002/Construyendo-y-Analizando-el-DB-de-un-E-Commerce)
+
+Este proyecto simula la base de datos de una plataforma de e-commerce que opera en tres países: Reino Unido, Irlanda y Canadá. El objetivo es analizar su contenido para obtener insights sobre rendimiento del negocio en base a una serie de preguntas preestablecidas.
+
+
 ### 🔥Stats:
 <table border="0" align="center">
 <tr border="0">
