@@ -30,13 +30,14 @@
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%23669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ### 🔍 Want to see what I do? Check these projects:
-[UFO Sighting: investigación sobre las tendencias de la cultura OVNI](https://github.com/anava122002/UFO-Sighting-investigaci-n-sobre-las-tendencias-de-la-cultura-OVNI)
+**1. [Proyectos de NLP](https://github.com/anava122002/Aprendiendo-NLP).**
 
-The UFO phenomenon began to gain popularity in the United States after World War II and continues to generate curiosity among people worldwide, especially in English-speaking countries. In this project, we aim to learn more about the evolution of UFO sightings and their most common patterns.
+Entendiendo los fundamentos teóricos y prácticos del NLP creando mis propios modelos y agentes.
 
-[SQL PROJECT: building and analysing an online supermarket's dataset](https://github.com/anava122002/Construyendo-y-Analizando-el-DB-de-un-E-Commerce)
+**2. [Proyectos de Análisis de Datos](https://github.com/anava122002/Aprendiendo-NLP).**
 
-Este proyecto simula la base de datos de una plataforma de e-commerce que opera en tres países: Reino Unido, Irlanda y Canadá. El objetivo es analizar su contenido para obtener insights sobre rendimiento del negocio en base a una serie de preguntas preestablecidas.
+Prácticas de un proceso de análisis de datos completo: desde la obtención y limpieza de datos hasta la comunicación de resultados.
+
 
 
 ### 🔥Stats:
