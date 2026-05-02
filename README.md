@@ -30,11 +30,11 @@
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%23669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ### 🔍 Want to see what I do? Check these projects:
-**1. [NLP Projects](https://github.com/anava122002/Aprendiendo-NLP).**
+**1. [NLP Projects]([https://github.com/anava122002/Aprendiendo-NLP](https://github.com/anava122002/Proyectos-NLP)).**
 
 Understanding the theoretical and practical foundations of NLP by creating my own models and agents.
 
-**2. [Data Analysis Projects](https://github.com/anava122002/Aprendiendo-NLP).**
+**2. [Data Analysis Projects](https://github.com/anava122002/Proyectos-DA).**
 
 Practical aspects of a comprehensive data analysis process: from data collection and cleaning to the communication of results.
 
