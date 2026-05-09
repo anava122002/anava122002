@@ -29,7 +29,27 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-%23382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%23669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-### 🔍 Want to see what I do? Check these projects:
+### 🔝 Want to see what I do? Here are my Top 3 projects:
+
+**1. [NLP basics. Building a Classic Model without Libraries](https://github.com/anava122002/YouTube-video-impact-classification)**
+
+A technical analysis of how text classifiers work, ranging from a theoretical and mathematical perspective to a complete model built from scratch. This is the first repository in a series dedicated to understanding NLP.
+
+Tools used for this project (the aim is to use as few as possible):
+* **Python** (pandas, numpy)
+
+
+**2. [Building and Analysing an E-Commerce Database](https://github.com/anava122002/Construyendo-y-Analizando-el-DB-de-un-E-Commerce)**
+
+This project simulates the database of an e-commerce platform operating in three countries: the United Kingdom, Ireland and Canada. The aim is to analyse its content to gain insights into business performance based on a series of predefined questions.
+
+Tools used for this project: 
+* **Python** (pandas, numpy, faker, datetime)
+* **SQL** (stored procedures, multilayer architecture, window functions, aggregations)
+
+**3. Repo in progress... Wait for it!**
+
+### 🔍  All my repositories organized:
 **1. [NLP Projects](https://github.com/anava122002/Proyectos-NLP).**
 
 Understanding the theoretical and practical foundations of NLP by creating my own models and agents.
