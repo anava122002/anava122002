@@ -47,7 +47,12 @@ Tools used for this project:
 * **Python** (pandas, numpy, faker, datetime)
 * **SQL** (stored procedures, multilayer architecture, window functions, aggregations)
 
-**3. Repo in progress... Wait for it!**
+**3. [AI French Teacher](https://github.com/anava122002/IA-profesor)**
+
+The "French teacher" is a chatbot with a multi-agent architecture on LangGraph designed for language learning at any level. It allows users to both help with any questions they may have at the moment and, in the case of wanting organized long-term learning, to follow a study guide and evaluate their level with exercises.
+
+Tools used for this project:
+* **Python** (pandas, numpy, langchain, langgraph)
 
 ### 🔍  All my repositories organized:
 **1. [NLP Projects](https://github.com/anava122002/Proyectos-NLP).**
